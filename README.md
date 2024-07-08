@@ -4,7 +4,7 @@
 - 🎓 Estudante do 5º Semestre de Desenvolvimento de Software Multiplataformas na Fatec Zona Leste.
 - 💻 Apaixonado por Desenvolvimento web e mobile.
 - 🛠️ Bom conhecimento de ReactJS e Java.
-- 🌱 Atualmente estudando Desenvolvimento Mobile em geral.
+- 🌱 Atualmente estudando desenvolvimento mobile em geral.
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorMartins77)](https://github.com/anuraghazra/github-readme-stats)
